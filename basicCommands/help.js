@@ -61,7 +61,7 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.youtube.com/channel/UC5ye2GnuuxxCpfS1P_7IBsQ')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
