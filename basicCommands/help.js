@@ -71,7 +71,7 @@ module.exports = {
 
     const button3 = new ButtonBuilder()
       .setLabel('Code')
-      .setURL('https://replit.com/@BEASTGAMERS1/MULTI-MUSIC-BOT-v200?v=1')
+      .setURL('https://discord.gg/PfGNtDjHz5')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
